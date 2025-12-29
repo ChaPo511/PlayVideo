@@ -88,10 +88,22 @@ For QBCore servers, the resource automatically recognizes common admin groups. T
    add_ace group.god playvideo.admin allow
    ```
 
+# 📞 Contact & Support
+
+<div align="center">
+
+[![Support Discord](https://img.shields.io/badge/Support%20Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/eXACMTyQNK)
+
+</div>
+
+- **Discord:** [Join Our Server](https://discord.gg/eXACMTyQNK) for live support and updates.
+
+- **Support the PlayVideo for future updates:** [KOFI](https://ko-fi.com/chapo_511)
+
+PlayVideo is a state-of-the-art Video solution designed specifically for FiveM servers. Combining advanced detection techniques with comprehensive server protection, it ensures a fair and secure gaming environment. This open-source script is completely free to use, modify, and extend.
+
+---
+
 ## 📋 Requirements
 
 - FiveM server with `game 'gta5'` and `fx_version 'cerulean'`
-
-## 🛠️ Support
-
-For issues and feature requests, please create an issue on GitHub.
