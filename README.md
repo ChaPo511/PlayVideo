@@ -67,7 +67,7 @@ Admin permissions can be configured via `config.lua`:
 
 Works with all major FiveM frameworks:
 - **ESX**: Use group-based permissions
-- **QB/QBOX/QBCore**: Use group-based permissions (supports 'admin', 'superadmin', 'god')
+- **QBOX/QBCore**: Use group-based permissions (supports 'admin', 'superadmin', 'god')
 - **Standalone**: Use ACE or identifier-based permissions
 
 ### QBCore Specific Configuration
